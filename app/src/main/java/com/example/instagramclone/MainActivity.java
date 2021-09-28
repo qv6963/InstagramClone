@@ -60,15 +60,14 @@ public class MainActivity extends AppCompatActivity {
                 new ActivityResultCallback<ActivityResult>() {
                     @Override
                     public void onActivityResult(ActivityResult result) {
-                        if(result.getResultCode() == CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE){
+                        //if(result.getResultCode() == CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE){
                             if(result.getResultCode() == RESULT_OK){
                                 Bitmap takenImage = BitmapFactory.decodeFile(photoFile.getAbsolutePath());
-
                                 ivPostImage.setImageBitmap(takenImage);
                             }else{
                                 Toast.makeText(MainActivity.this, "picture wasn't taken!!",Toast.LENGTH_SHORT).show();
                             }
-                        }
+                        //}
 
                     /*if (result.getResultCode() == Activity.RESULT_OK) {
                         Bitmap takenImage = BitmapFactory.decodeFile(photoFile.getAbsolutePath());
