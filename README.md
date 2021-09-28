@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-1. Login Functionality - <img src='http://i.imgur.com/link/to/your/gif/assignment-5-working.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-2. Whole Functionality - <img src='http://i.imgur.com/link/to/your/gif/assignment-5-final.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+1. Login Functionality - <img src='https://github.com/qv6963/InstagramClone/blob/master/assignment-5-working.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+2. Whole Functionality - <img src='https://github.com/qv6963/InstagramClone/blob/master/assignment-5-final.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
